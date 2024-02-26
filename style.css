@@ -1,4 +1,11 @@
-
+.container {
+ width : 160px;
+ height: 160px;
+ border-radius: 50%;
+ border: 1.7px solid rgb(100, 121, 179);
+ margin-right: 20px;
+ margin-bottom: 20px;
+ overflow: hidden;
 h1 {
   color: white;
   font-family: "Georgia", serif; /* Georgia */
